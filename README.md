@@ -1,2 +1,0 @@
-# Redz
-IsRealWork
